@@ -12,7 +12,7 @@ Here're some of the project's best features:
 *   Fully customised UIViews
 *   ViewController modularity
 
-<h2>Installation Steps:</h2>
+<h2>Installation</h2>
 
 <p>1. Download zip or use git clone command</p>
 
