@@ -2,7 +2,7 @@
 
 <p id="description">This project is built and designed to demonstrate the usage of AVFoundation Framework for capturing media and creating fully customised player.</p>
   
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
 Here're some of the project's best features:
 
@@ -12,7 +12,7 @@ Here're some of the project's best features:
 *   Fully customised UIViews
 *   ViewController modularity
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Installation Steps:</h2>
 
 <p>1. Download zip or use git clone command</p>
 
